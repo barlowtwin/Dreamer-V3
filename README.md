@@ -1,3 +1,3 @@
-# Dreamer-V1
+# Dreamer-V3
 
-Pytorch Implementation of '*Dream to Control : Learning Behaviors by Latent Imagaination*' [link](https://arxiv.org/pdf/1912.01603.pdf)
+Pytorch Implementation of '*Mastering Diverse Domains through World Models*' [link](https://danijar.com/project/dreamerv3/)
